@@ -3,3 +3,4 @@
 git lfs track "*.umap"
 *.umap filter=lfs diff=lfs merge=lfs -text
 Content/LookoutTower/Textures/T_WoodRough_A_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Characters/Teuthisan/Rig/SKM_Teuthisan_rig_v001.uasset filter=lfs diff=lfs merge=lfs -text
