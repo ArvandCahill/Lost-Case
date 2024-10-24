@@ -4,3 +4,10 @@ git lfs track "*.umap"
 *.umap filter=lfs diff=lfs merge=lfs -text
 Content/LookoutTower/Textures/T_WoodRough_A_Normal.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Characters/Teuthisan/Rig/SKM_Teuthisan_rig_v001.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/MossyGround/T_MossyGround_A.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/MossyGround/T_MossyGround_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/RustedMetal/T_RustedMetal_A.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/RustedMetal/T_RustedMetal_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/WornPavement/T_WornPavement_A.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/Surfaces/WornPavement/T_WornPavement_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Skybox/HDRI_SunnySky.uasset filter=lfs diff=lfs merge=lfs -text
